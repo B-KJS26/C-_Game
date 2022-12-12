@@ -6,6 +6,7 @@ Double
  - 개발환경 : Replit.com <br/>
  
  - 프로젝트 주소 : https://replit.com/join/fkugulvwat-digyrh456789 <br/>
+ - Replit 배포 : https://replit.com/@digyrh456789/Double-Up-Card-Game?v=1
  
  - 게임개요 <br/>
     • C++로 카드게임을 만들어보고 싶다는 생각이 들어서 복잡한 텍사스홀덤 이런 것 보다는 간단하게 나온 카드 A 다음으로 나올 카드 B가 A보다 높은 카드인지 낮은 카드인지 Low or High로
